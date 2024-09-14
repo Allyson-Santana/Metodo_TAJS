@@ -46,7 +46,7 @@ npm run test:watch
 - [] - Testes e2e para toda a UI na Web
 - [] - Testes e2e para toda a UI na CLI
 - [] - Testes e2e para toda a API
-- [] - Testes unitários com 100% de code coverage
+- [x] - Testes unitários com 100% de code coverage
 
 ### Plus
 
